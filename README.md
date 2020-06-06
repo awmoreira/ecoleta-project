@@ -7,8 +7,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/awmoreira/nubank-clone/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/awmoreira/uber-interface/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues-raw/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/awmoreira/ecoleta-project/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/awmoreira/ecoleta-project/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
 
 <!-- PROJECT LOGO -->
@@ -17,7 +17,7 @@
    <h3 align="center">Ecoleta - Backend, Web e Mobile </h3>
 </p>
 <p align="center">
-   <a href="https://ibb.co/V2tK8yH"><img src="https://i.ibb.co/V2tK8yH/screenshot-2019-05-09-11-25-09-43.png" alt="screenshot-2019-05-09-11-25-09-43" border="0"></a> <a href="https://ibb.co/60WHWz3"><img src="https://i.ibb.co/60WHWz3/screenshot-2019-05-09-11-25-20-448.png" alt="screenshot-2019-05-09-11-25-20-448" border="0"></a> <a href="https://ibb.co/q5VRnLd"><img src="https://i.ibb.co/q5VRnLd/screenshot-2019-05-09-11-25-39-848.png" alt="screenshot-2019-05-09-11-25-39-848" border="0"></a>
+   <a href="https://unsplash.com/photos/yuFaa6HnvjU"><img src="https://unsplash.com/photos/yuFaa6HnvjU" alt="Ecoleta Web" border="0"></a> <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://unsplash.com/photos/SloFH_eFPjA" alt="Ecoleta Web" border="0"></a> <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://unsplash.com/photos/-VF4UqpPCoM" alt="Ecoleta Web" border="0"></a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
