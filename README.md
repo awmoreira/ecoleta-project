@@ -17,7 +17,10 @@
    <h3 align="center">Ecoleta - Backend, Web e Mobile </h3>
 </p>
 <p align="center">
-   <a href="https://unsplash.com/photos/yuFaa6HnvjU"><img src="https://unsplash.com/photos/yuFaa6HnvjU" alt="Ecoleta Web" border="0"></a> <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://unsplash.com/photos/SloFH_eFPjA" alt="Ecoleta Web" border="0"></a> <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://unsplash.com/photos/-VF4UqpPCoM" alt="Ecoleta Web" border="0"></a>
+   <a href="https://unsplash.com/photos/yuFaa6HnvjU"><img src="https://images.unsplash.com/photo-1591481787657-e372e002d3bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3360&q=80" alt="Ecoleta Web" border="0"></a> 
+   <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://images.unsplash.com/photo-1591481787592-bc6fb99ebe68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2600&q=80" alt="Ecoleta Web" border="0"></a> 
+   <a href="https://unsplash.com/photos/-VF4UqpPCoM"><img src="https://images.unsplash.com/photo-1591481788033-d03f06b818f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3360&q=80" alt="Ecoleta Web" border="0"></a>
+   <a href="https://unsplash.com/photos/fxwfCF4X0Vo"><img src="https://images.unsplash.com/photo-1591481787632-17bd11b9260c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2600&q=80" alt="Ecoleta Web" border="0"></a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
